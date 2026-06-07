@@ -1,2 +1,1 @@
-# quantitative-safety-methods
-notes and simple examples
+quantitative-safety-methods
